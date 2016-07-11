@@ -2,7 +2,7 @@
 
 ## phpctags
 phpctags is a bash script to generate the ctag tag file for PHP projects
-Usage:
+### Usage:
 ```
 ./phpctags <project directory>
 ```
